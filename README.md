@@ -9,6 +9,11 @@ Realice un programa que solicite las nota de un alumno en forma numerica del 0 a
 - 9 a 10 – excelente
 
 #### IMPORTANTE: 
-- Recuerden que es en Javascript.
-- Si quieren hacerlo más pro pueden usar un formulario y que al ingresar la nota en el input y dar enviar responda que tipo de calificación es.
-- Pueden usar jQuery.
+Para resolución del ejercicio se debe tener en cuenta y debe incluir lo siguiente:
+
+- Es en Javascript.
+- Se puede usar jQuery
+- Deben crear un formulario en el cual se ingresa la nota y al dar clic en el botón enviar automáticamente muestra el tipo de calificación.
+
+#### Mockup
+![Mockup](https://spartandevelopers.rocks/img/mockup.png)
